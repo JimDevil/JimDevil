@@ -9,8 +9,6 @@
   </div>
 </div>
 <details>
-</details>
-<details>
 <summary>Tools</summary>
 <div>
   <p style="display: inline-block;" align="center">
