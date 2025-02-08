@@ -94,10 +94,4 @@
 </div>
 <hr>
 ![JimDevil's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JimDevil&show_icons=true&theme=merko)
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimDevil&amp;layout=compact&amp;bg_color=0,73FA79,73FDFF,7A81FF&amp;theme=graywhite&amp;langs_count=10&amp;exclude_repo=kasweb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JimDevil&amp;count_private=true&amp;show_icons=trueline_height=21&amp;bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&amp;theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JimDevil&amp;theme=dracula">
-<img src="https://metrics.lecoq.io/JimDevil?template=classic&amp;achievements=1&amp;achievements.threshold=C&amp;achievements.secrets=true&amp;achievements.display=compact&amp;achievements.limit=0&amp;config.timezone=Asia%2FDhaka">	
-<img src="https://github-profile-trophy.vercel.app/?username=JimDevil&amp;theme=onedark&amp;title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-</p>
+
