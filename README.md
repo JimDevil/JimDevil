@@ -68,7 +68,7 @@
   <br>
   <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card"></div>
 </details>
-<details open="">
+<details>
 <summary>What can I do for you?</summary>
 <table style="border: none">
   <tbody><tr>
